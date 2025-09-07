@@ -3,9 +3,7 @@
 ## Aula 01 
 A  primeira aula apresentou o conceito de Git e a sua importância na comunidade de desenvolvedores (as)
 
-### 🏷️ |  Verificação de pastas
-
-`ls -a`
+### 🏷️ |  Verificação de pastas  `ls -a`
 
 ## Aula 02
 
