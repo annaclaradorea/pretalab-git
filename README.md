@@ -35,3 +35,6 @@ No GitHub: Icone do perfil → Repositories → New
 - `git remote -v`  é usado para listar os repositórios remotos associados ao seu projeto Git, mostrando também as URLs usadas para buscar (fetch) e enviar (push) dados.
 
 
+
+
+## Aula 04
