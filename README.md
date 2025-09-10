@@ -31,6 +31,7 @@ OBS: Comandos no Windows utilizando o Git Bash
 
 No GitHub: Icone do perfil → Repositories → New 
 🏷️ | Conectando ao repositório local: `cd Desktop`  →  `cd git-github-pretalab` → `git remote add origin *URL do repositório` →*  `git branch -M main` 
+
 - `git remote -v`  é usado para listar os repositórios remotos associados ao seu projeto Git, mostrando também as URLs usadas para buscar (fetch) e enviar (push) dados.
 
 
