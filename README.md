@@ -38,3 +38,5 @@ No GitHub: Icone do perfil → Repositories → New
 
 
 ## Aula 04
+
+- Trabalhando com branches, merge and rebases
