@@ -33,9 +33,9 @@ No GitHub: Icone do perfil → Repositories → New
 🏷️ | Conectando ao repositório local: `cd Desktop`  →  `cd git-github-pretalab` → `git remote add origin *URL do repositório` →*  `git branch -M main` 
 
 - `git remote -v`  é usado para listar os repositórios remotos associados ao seu projeto Git, mostrando também as URLs usadas para buscar (fetch) e enviar (push) dados.
-
-
-
+- `git restore --staged *arquivo`* para tirar o arquivo da stage area, mantendo as modificações
+- `git restore *arquivo`* para voltar ao arquivo anterior, antes das modificações (apaga as modificações)
+- `git reset -soft HEAD-1` para apagar o último commit
 
 ## Aula 04
 
